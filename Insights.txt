@@ -1,0 +1,28 @@
+1. Negative-sentiment titles attract the most views (~1.58M average), showing that emotionally charged content gets more attention on YouTube.
+
+2. Neutral sentiment dominates in Korea and Japan, while India shows a more balanced mix of positive and negative emotional tones.
+
+3. Positive titles have decent engagement (~925K views), but neutral ones average the lowest views (~519K), suggesting emotional pull drives visibility.
+
+4. There's a strong correlation between views, likes, and comments, proving that audience engagement heavily influences virality.
+
+5. Popular video categories vary across regions — Power BI visuals will help break down category performance and sentiment by country.
+
+
+
+POwerBI Insights
+
+🧠 1. Emotion Drives Views
+Video titles with negative sentiment received the highest average views (~1.58M), suggesting emotionally charged content draws more engagement.
+
+🌍 2. Sentiment Varies by Country
+Japan and Korea had a majority of neutral titles, while India showed a balanced mix of positive and negative sentiments, indicating cultural differences in title tone.
+
+🎶 3. Category Trends Shift Across Regions
+Top-viewed categories differ across countries — with Music and Entertainment dominating in India, while Howto & Style and Education gained traction in Japan and Korea.
+
+📈 4. Views Correlate with Likes & Comments
+A strong positive correlation was found between views, likes, and comment count, confirming that audience interaction boosts visibility.
+
+🕓 5. Trend Timing Shows Volume Spikes
+Certain dates saw sharp increases in views — suggesting seasonal or viral spikes, useful for future campaign timing.
