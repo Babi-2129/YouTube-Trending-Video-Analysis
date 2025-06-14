@@ -23,6 +23,7 @@ To uncover regional patterns in YouTube trending content by analyzing video enga
 ## 📂 Project Structure
 
 📁 YouTube-Trending-Analytics/
+
 ├── data/ # Raw CSVs (INvideos, JPvideos, KRvideos)
 
 ├── visuals/ # Plots & heatmaps
@@ -32,9 +33,7 @@ To uncover regional patterns in YouTube trending content by analyzing video enga
 ├── Analyse.py & Merge.py/ #python codes
 
 ├── PowerBI_Dashboard.pdf
-
 ├── YouTube_Final_Insights.pdf
-
 └── README.md
 ---
 
