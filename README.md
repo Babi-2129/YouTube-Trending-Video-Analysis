@@ -77,7 +77,7 @@ To uncover regional patterns in YouTube trending content by analyzing video enga
 
 - `YouTube_Final_Insights.pdf` – summarized findings
 - `PowerBI_Dashboard.pdf` – dashboard visual
-- `YouTube_Trending_Project_2Page_Report.pdf` – full project summary
+- `YouTube_Trending_Project_Report.pdf` – full project summary
 
 ---
 
